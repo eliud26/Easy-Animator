@@ -1,0 +1,2585 @@
+Shapes:
+Name: background
+Type: rectangle
+Corner(0.0,0.0), Width:800.0, Height: 800.0, Color: (16,45,248)
+Appear at t=90
+Disappear at t=200
+
+Name: B0
+Type: rectangle
+Corner(80.0,424.0), Width:100.0, Height: 326.0, Color: (0,0,0)
+Appear at t=1
+Disappear at t=200
+
+Name: B1
+Type: rectangle
+Corner(260.0,365.0), Width:100.0, Height: 385.0, Color: (0,0,0)
+Appear at t=1
+Disappear at t=200
+
+Name: B2
+Type: rectangle
+Corner(440.0,375.0), Width:100.0, Height: 375.0, Color: (0,0,0)
+Appear at t=1
+Disappear at t=200
+
+Name: B3
+Type: rectangle
+Corner(620.0,445.0), Width:100.0, Height: 305.0, Color: (0,0,0)
+Appear at t=1
+Disappear at t=200
+
+Name: window000
+Type: rectangle
+Corner(100.0,710.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window001
+Type: rectangle
+Corner(140.0,710.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window010
+Type: rectangle
+Corner(100.0,670.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window011
+Type: rectangle
+Corner(140.0,670.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window020
+Type: rectangle
+Corner(100.0,630.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window021
+Type: rectangle
+Corner(140.0,630.0), Width:20.0, Height: 20.0, Color: (255,255,0)
+Appear at t=87
+Disappear at t=200
+
+Name: window030
+Type: rectangle
+Corner(100.0,590.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window031
+Type: rectangle
+Corner(140.0,590.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window040
+Type: rectangle
+Corner(100.0,550.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window041
+Type: rectangle
+Corner(140.0,550.0), Width:20.0, Height: 20.0, Color: (255,255,0)
+Appear at t=152
+Disappear at t=200
+
+Name: window050
+Type: rectangle
+Corner(100.0,510.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window051
+Type: rectangle
+Corner(140.0,510.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window060
+Type: rectangle
+Corner(100.0,470.0), Width:20.0, Height: 20.0, Color: (255,255,0)
+Appear at t=152
+Disappear at t=200
+
+Name: window061
+Type: rectangle
+Corner(140.0,470.0), Width:20.0, Height: 20.0, Color: (255,255,0)
+Appear at t=98
+Disappear at t=200
+
+Name: window100
+Type: rectangle
+Corner(280.0,710.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window101
+Type: rectangle
+Corner(320.0,710.0), Width:20.0, Height: 20.0, Color: (255,255,0)
+Appear at t=113
+Disappear at t=200
+
+Name: window110
+Type: rectangle
+Corner(280.0,670.0), Width:20.0, Height: 20.0, Color: (255,255,0)
+Appear at t=100
+Disappear at t=200
+
+Name: window111
+Type: rectangle
+Corner(320.0,670.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window120
+Type: rectangle
+Corner(280.0,630.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window121
+Type: rectangle
+Corner(320.0,630.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window130
+Type: rectangle
+Corner(280.0,590.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window131
+Type: rectangle
+Corner(320.0,590.0), Width:20.0, Height: 20.0, Color: (255,255,0)
+Appear at t=153
+Disappear at t=200
+
+Name: window140
+Type: rectangle
+Corner(280.0,550.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window141
+Type: rectangle
+Corner(320.0,550.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window150
+Type: rectangle
+Corner(280.0,510.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window151
+Type: rectangle
+Corner(320.0,510.0), Width:20.0, Height: 20.0, Color: (255,255,0)
+Appear at t=104
+Disappear at t=200
+
+Name: window160
+Type: rectangle
+Corner(280.0,470.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window161
+Type: rectangle
+Corner(320.0,470.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window170
+Type: rectangle
+Corner(280.0,430.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window171
+Type: rectangle
+Corner(320.0,430.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window180
+Type: rectangle
+Corner(280.0,390.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window181
+Type: rectangle
+Corner(320.0,390.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window200
+Type: rectangle
+Corner(460.0,710.0), Width:20.0, Height: 20.0, Color: (255,255,0)
+Appear at t=132
+Disappear at t=200
+
+Name: window201
+Type: rectangle
+Corner(500.0,710.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window210
+Type: rectangle
+Corner(460.0,670.0), Width:20.0, Height: 20.0, Color: (255,255,0)
+Appear at t=88
+Disappear at t=200
+
+Name: window211
+Type: rectangle
+Corner(500.0,670.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window220
+Type: rectangle
+Corner(460.0,630.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window221
+Type: rectangle
+Corner(500.0,630.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window230
+Type: rectangle
+Corner(460.0,590.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window231
+Type: rectangle
+Corner(500.0,590.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window240
+Type: rectangle
+Corner(460.0,550.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window241
+Type: rectangle
+Corner(500.0,550.0), Width:20.0, Height: 20.0, Color: (255,255,0)
+Appear at t=117
+Disappear at t=200
+
+Name: window250
+Type: rectangle
+Corner(460.0,510.0), Width:20.0, Height: 20.0, Color: (255,255,0)
+Appear at t=133
+Disappear at t=200
+
+Name: window251
+Type: rectangle
+Corner(500.0,510.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window260
+Type: rectangle
+Corner(460.0,470.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window261
+Type: rectangle
+Corner(500.0,470.0), Width:20.0, Height: 20.0, Color: (255,255,0)
+Appear at t=101
+Disappear at t=200
+
+Name: window270
+Type: rectangle
+Corner(460.0,430.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window271
+Type: rectangle
+Corner(500.0,430.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window300
+Type: rectangle
+Corner(640.0,710.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window301
+Type: rectangle
+Corner(680.0,710.0), Width:20.0, Height: 20.0, Color: (255,255,0)
+Appear at t=140
+Disappear at t=200
+
+Name: window310
+Type: rectangle
+Corner(640.0,670.0), Width:20.0, Height: 20.0, Color: (255,255,0)
+Appear at t=108
+Disappear at t=200
+
+Name: window311
+Type: rectangle
+Corner(680.0,670.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window320
+Type: rectangle
+Corner(640.0,630.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window321
+Type: rectangle
+Corner(680.0,630.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window330
+Type: rectangle
+Corner(640.0,590.0), Width:20.0, Height: 20.0, Color: (255,255,0)
+Appear at t=86
+Disappear at t=200
+
+Name: window331
+Type: rectangle
+Corner(680.0,590.0), Width:20.0, Height: 20.0, Color: (255,255,0)
+Appear at t=124
+Disappear at t=200
+
+Name: window340
+Type: rectangle
+Corner(640.0,550.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window341
+Type: rectangle
+Corner(680.0,550.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window350
+Type: rectangle
+Corner(640.0,510.0), Width:20.0, Height: 20.0, Color: (255,255,255)
+Appear at t=60
+Disappear at t=200
+
+Name: window351
+Type: rectangle
+Corner(680.0,510.0), Width:20.0, Height: 20.0, Color: (255,255,0)
+Appear at t=105
+Disappear at t=200
+
+Name: window360
+Type: rectangle
+Corner(640.0,470.0), Width:20.0, Height: 20.0, Color: (255,255,0)
+Appear at t=104
+Disappear at t=200
+
+Name: window361
+Type: rectangle
+Corner(680.0,470.0), Width:20.0, Height: 20.0, Color: (255,255,0)
+Appear at t=104
+Disappear at t=200
+
+Name: moon
+Type: ellipse
+Corner(200.0,200.0), Width:100.0, Height: 100.0, Color: (229,229,255)
+Appear at t=1
+Disappear at t=200
+
+Name: eclipse
+Type: ellipse
+Corner(230.0,180.0), Width:100.0, Height: 100.0, Color: (16,45,248)
+Appear at t=90
+Disappear at t=200
+
+Name: star0
+Type: ellipse
+Corner(223.0,66.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=108
+Disappear at t=200
+
+Name: star1
+Type: ellipse
+Corner(585.0,211.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=120
+Disappear at t=200
+
+Name: star2
+Type: ellipse
+Corner(489.0,77.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=110
+Disappear at t=200
+
+Name: star3
+Type: ellipse
+Corner(374.0,286.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=93
+Disappear at t=200
+
+Name: star4
+Type: ellipse
+Corner(708.0,281.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=83
+Disappear at t=200
+
+Name: star5
+Type: ellipse
+Corner(508.0,260.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=97
+Disappear at t=200
+
+Name: star6
+Type: ellipse
+Corner(529.0,70.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=92
+Disappear at t=200
+
+Name: star7
+Type: ellipse
+Corner(332.0,65.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=117
+Disappear at t=200
+
+Name: star8
+Type: ellipse
+Corner(311.0,147.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=86
+Disappear at t=200
+
+Name: star9
+Type: ellipse
+Corner(170.0,281.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=88
+Disappear at t=200
+
+Name: star10
+Type: ellipse
+Corner(719.0,102.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=90
+Disappear at t=200
+
+Name: star11
+Type: ellipse
+Corner(524.0,264.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=129
+Disappear at t=200
+
+Name: star12
+Type: ellipse
+Corner(768.0,194.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=86
+Disappear at t=200
+
+Name: star13
+Type: ellipse
+Corner(766.0,179.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=113
+Disappear at t=200
+
+Name: star14
+Type: ellipse
+Corner(510.0,78.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=98
+Disappear at t=200
+
+Name: star15
+Type: ellipse
+Corner(621.0,149.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=114
+Disappear at t=200
+
+Name: star16
+Type: ellipse
+Corner(491.0,252.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=106
+Disappear at t=200
+
+Name: star17
+Type: ellipse
+Corner(405.0,63.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=89
+Disappear at t=200
+
+Name: star18
+Type: ellipse
+Corner(550.0,267.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=113
+Disappear at t=200
+
+Name: star19
+Type: ellipse
+Corner(108.0,197.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=94
+Disappear at t=200
+
+Name: star20
+Type: ellipse
+Corner(737.0,78.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=103
+Disappear at t=200
+
+Name: star21
+Type: ellipse
+Corner(795.0,137.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=126
+Disappear at t=200
+
+Name: star22
+Type: ellipse
+Corner(184.0,125.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=89
+Disappear at t=200
+
+Name: star23
+Type: ellipse
+Corner(134.0,230.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=96
+Disappear at t=200
+
+Name: star24
+Type: ellipse
+Corner(244.0,153.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=120
+Disappear at t=200
+
+Name: star25
+Type: ellipse
+Corner(259.0,119.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=112
+Disappear at t=200
+
+Name: star26
+Type: ellipse
+Corner(322.0,269.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=106
+Disappear at t=200
+
+Name: star27
+Type: ellipse
+Corner(412.0,182.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=117
+Disappear at t=200
+
+Name: star28
+Type: ellipse
+Corner(674.0,137.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=119
+Disappear at t=200
+
+Name: star29
+Type: ellipse
+Corner(46.0,246.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=96
+Disappear at t=200
+
+Name: star30
+Type: ellipse
+Corner(388.0,315.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=123
+Disappear at t=200
+
+Name: star31
+Type: ellipse
+Corner(185.0,236.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=121
+Disappear at t=200
+
+Name: star32
+Type: ellipse
+Corner(550.0,232.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=109
+Disappear at t=200
+
+Name: star33
+Type: ellipse
+Corner(656.0,101.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=94
+Disappear at t=200
+
+Name: star34
+Type: ellipse
+Corner(283.0,111.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=84
+Disappear at t=200
+
+Name: star35
+Type: ellipse
+Corner(649.0,326.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=92
+Disappear at t=200
+
+Name: star36
+Type: ellipse
+Corner(691.0,267.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=115
+Disappear at t=200
+
+Name: star37
+Type: ellipse
+Corner(113.0,276.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=99
+Disappear at t=200
+
+Name: star38
+Type: ellipse
+Corner(604.0,302.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=99
+Disappear at t=200
+
+Name: star39
+Type: ellipse
+Corner(462.0,162.0), Width:6.0, Height: 6.0, Color: (255,255,255)
+Appear at t=127
+Disappear at t=200
+
+Shape: background moves from (0.0,0.0) to (0.0,0.0) from t=90 to t=200
+
+scales from Width: 800, Height: 800 to Width: 800, Height: 800 from t=90 to t=200
+
+changes color from (16,45,248)  to (16,45,248) from t=90 to t=200
+Shape: background moves from (0.0,0.0) to (0.0,0.0) from t=50 to t=90
+
+scales from Width: 800, Height: 800 to Width: 800, Height: 800 from t=50 to t=90
+
+changes color from (33,94,248)  to (16,45,248) from t=50 to t=90
+Shape: background moves from (0.0,0.0) to (0.0,0.0) from t=1 to t=1
+
+scales from Width: 800, Height: 800 to Width: 800, Height: 800 from t=1 to t=1
+
+changes color from (33,94,248)  to (33,94,248) from t=1 to t=1
+Shape: background moves from (0.0,0.0) to (0.0,0.0) from t=1 to t=50
+
+scales from Width: 800, Height: 800 to Width: 800, Height: 800 from t=1 to t=50
+
+changes color from (33,94,248)  to (33,94,248) from t=1 to t=50
+Shape: B0 moves from (80.0,424.0) to (80.0,424.0) from t=1 to t=1
+
+scales from Width: 100, Height: 326 to Width: 100, Height: 326 from t=1 to t=1
+
+changes color from (0,0,0)  to (0,0,0) from t=1 to t=1
+Shape: B0 moves from (80.0,424.0) to (80.0,424.0) from t=1 to t=200
+
+scales from Width: 100, Height: 326 to Width: 100, Height: 326 from t=1 to t=200
+
+changes color from (0,0,0)  to (0,0,0) from t=1 to t=200
+Shape: B1 moves from (260.0,365.0) to (260.0,365.0) from t=1 to t=1
+
+scales from Width: 100, Height: 385 to Width: 100, Height: 385 from t=1 to t=1
+
+changes color from (0,0,0)  to (0,0,0) from t=1 to t=1
+Shape: B1 moves from (260.0,365.0) to (260.0,365.0) from t=1 to t=200
+
+scales from Width: 100, Height: 385 to Width: 100, Height: 385 from t=1 to t=200
+
+changes color from (0,0,0)  to (0,0,0) from t=1 to t=200
+Shape: B2 moves from (440.0,375.0) to (440.0,375.0) from t=1 to t=1
+
+scales from Width: 100, Height: 375 to Width: 100, Height: 375 from t=1 to t=1
+
+changes color from (0,0,0)  to (0,0,0) from t=1 to t=1
+Shape: B2 moves from (440.0,375.0) to (440.0,375.0) from t=1 to t=200
+
+scales from Width: 100, Height: 375 to Width: 100, Height: 375 from t=1 to t=200
+
+changes color from (0,0,0)  to (0,0,0) from t=1 to t=200
+Shape: B3 moves from (620.0,445.0) to (620.0,445.0) from t=1 to t=1
+
+scales from Width: 100, Height: 305 to Width: 100, Height: 305 from t=1 to t=1
+
+changes color from (0,0,0)  to (0,0,0) from t=1 to t=1
+Shape: B3 moves from (620.0,445.0) to (620.0,445.0) from t=1 to t=200
+
+scales from Width: 100, Height: 305 to Width: 100, Height: 305 from t=1 to t=200
+
+changes color from (0,0,0)  to (0,0,0) from t=1 to t=200
+Shape: window000 moves from (100.0,710.0) to (100.0,710.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window000 moves from (100.0,850.0) to (100.0,710.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window000 moves from (100.0,850.0) to (100.0,850.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window000 moves from (100.0,850.0) to (100.0,850.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window001 moves from (140.0,710.0) to (140.0,710.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window001 moves from (140.0,850.0) to (140.0,710.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window001 moves from (140.0,850.0) to (140.0,850.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window001 moves from (140.0,850.0) to (140.0,850.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window010 moves from (100.0,670.0) to (100.0,670.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window010 moves from (100.0,890.0) to (100.0,670.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window010 moves from (100.0,890.0) to (100.0,890.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window010 moves from (100.0,890.0) to (100.0,890.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window011 moves from (140.0,670.0) to (140.0,670.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window011 moves from (140.0,890.0) to (140.0,670.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window011 moves from (140.0,890.0) to (140.0,890.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window011 moves from (140.0,890.0) to (140.0,890.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window020 moves from (100.0,630.0) to (100.0,630.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window020 moves from (100.0,930.0) to (100.0,630.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window020 moves from (100.0,930.0) to (100.0,930.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window020 moves from (100.0,930.0) to (100.0,930.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window021 moves from (140.0,630.0) to (140.0,630.0) from t=87 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=87 to t=200
+
+changes color from (255,255,0)  to (255,255,0) from t=87 to t=200
+Shape: window021 moves from (140.0,630.0) to (140.0,630.0) from t=82 to t=87
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=82 to t=87
+
+changes color from (255,255,255)  to (255,255,0) from t=82 to t=87
+Shape: window021 moves from (140.0,630.0) to (140.0,630.0) from t=60 to t=82
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=82
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=82
+Shape: window021 moves from (140.0,930.0) to (140.0,630.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window021 moves from (140.0,930.0) to (140.0,930.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window021 moves from (140.0,930.0) to (140.0,930.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window030 moves from (100.0,590.0) to (100.0,590.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window030 moves from (100.0,970.0) to (100.0,590.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window030 moves from (100.0,970.0) to (100.0,970.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window030 moves from (100.0,970.0) to (100.0,970.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window031 moves from (140.0,590.0) to (140.0,590.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window031 moves from (140.0,970.0) to (140.0,590.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window031 moves from (140.0,970.0) to (140.0,970.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window031 moves from (140.0,970.0) to (140.0,970.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window040 moves from (100.0,550.0) to (100.0,550.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window040 moves from (100.0,1010.0) to (100.0,550.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window040 moves from (100.0,1010.0) to (100.0,1010.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window040 moves from (100.0,1010.0) to (100.0,1010.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window041 moves from (140.0,550.0) to (140.0,550.0) from t=152 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=152 to t=200
+
+changes color from (255,255,0)  to (255,255,0) from t=152 to t=200
+Shape: window041 moves from (140.0,550.0) to (140.0,550.0) from t=147 to t=152
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=147 to t=152
+
+changes color from (255,255,255)  to (255,255,0) from t=147 to t=152
+Shape: window041 moves from (140.0,550.0) to (140.0,550.0) from t=60 to t=147
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=147
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=147
+Shape: window041 moves from (140.0,1010.0) to (140.0,550.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window041 moves from (140.0,1010.0) to (140.0,1010.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window041 moves from (140.0,1010.0) to (140.0,1010.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window050 moves from (100.0,510.0) to (100.0,510.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window050 moves from (100.0,1050.0) to (100.0,510.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window050 moves from (100.0,1050.0) to (100.0,1050.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window050 moves from (100.0,1050.0) to (100.0,1050.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window051 moves from (140.0,510.0) to (140.0,510.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window051 moves from (140.0,1050.0) to (140.0,510.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window051 moves from (140.0,1050.0) to (140.0,1050.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window051 moves from (140.0,1050.0) to (140.0,1050.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window060 moves from (100.0,470.0) to (100.0,470.0) from t=152 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=152 to t=200
+
+changes color from (255,255,0)  to (255,255,0) from t=152 to t=200
+Shape: window060 moves from (100.0,470.0) to (100.0,470.0) from t=147 to t=152
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=147 to t=152
+
+changes color from (255,255,255)  to (255,255,0) from t=147 to t=152
+Shape: window060 moves from (100.0,470.0) to (100.0,470.0) from t=60 to t=147
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=147
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=147
+Shape: window060 moves from (100.0,1090.0) to (100.0,470.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window060 moves from (100.0,1090.0) to (100.0,1090.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window060 moves from (100.0,1090.0) to (100.0,1090.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window061 moves from (140.0,470.0) to (140.0,470.0) from t=98 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=98 to t=200
+
+changes color from (255,255,0)  to (255,255,0) from t=98 to t=200
+Shape: window061 moves from (140.0,470.0) to (140.0,470.0) from t=93 to t=98
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=93 to t=98
+
+changes color from (255,255,255)  to (255,255,0) from t=93 to t=98
+Shape: window061 moves from (140.0,470.0) to (140.0,470.0) from t=60 to t=93
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=93
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=93
+Shape: window061 moves from (140.0,1090.0) to (140.0,470.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window061 moves from (140.0,1090.0) to (140.0,1090.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window061 moves from (140.0,1090.0) to (140.0,1090.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window100 moves from (280.0,710.0) to (280.0,710.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window100 moves from (280.0,-750.0) to (280.0,710.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window100 moves from (280.0,-750.0) to (280.0,-750.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window100 moves from (280.0,-750.0) to (280.0,-750.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window101 moves from (320.0,710.0) to (320.0,710.0) from t=113 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=113 to t=200
+
+changes color from (255,255,0)  to (255,255,0) from t=113 to t=200
+Shape: window101 moves from (320.0,710.0) to (320.0,710.0) from t=108 to t=113
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=108 to t=113
+
+changes color from (255,255,255)  to (255,255,0) from t=108 to t=113
+Shape: window101 moves from (320.0,710.0) to (320.0,710.0) from t=60 to t=108
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=108
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=108
+Shape: window101 moves from (320.0,-750.0) to (320.0,710.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window101 moves from (320.0,-750.0) to (320.0,-750.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window101 moves from (320.0,-750.0) to (320.0,-750.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window110 moves from (280.0,670.0) to (280.0,670.0) from t=100 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=100 to t=200
+
+changes color from (255,255,0)  to (255,255,0) from t=100 to t=200
+Shape: window110 moves from (280.0,670.0) to (280.0,670.0) from t=95 to t=100
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=95 to t=100
+
+changes color from (255,255,255)  to (255,255,0) from t=95 to t=100
+Shape: window110 moves from (280.0,670.0) to (280.0,670.0) from t=60 to t=95
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=95
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=95
+Shape: window110 moves from (280.0,-710.0) to (280.0,670.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window110 moves from (280.0,-710.0) to (280.0,-710.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window110 moves from (280.0,-710.0) to (280.0,-710.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window111 moves from (320.0,670.0) to (320.0,670.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window111 moves from (320.0,-710.0) to (320.0,670.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window111 moves from (320.0,-710.0) to (320.0,-710.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window111 moves from (320.0,-710.0) to (320.0,-710.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window120 moves from (280.0,630.0) to (280.0,630.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window120 moves from (280.0,-670.0) to (280.0,630.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window120 moves from (280.0,-670.0) to (280.0,-670.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window120 moves from (280.0,-670.0) to (280.0,-670.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window121 moves from (320.0,630.0) to (320.0,630.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window121 moves from (320.0,-670.0) to (320.0,630.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window121 moves from (320.0,-670.0) to (320.0,-670.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window121 moves from (320.0,-670.0) to (320.0,-670.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window130 moves from (280.0,590.0) to (280.0,590.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window130 moves from (280.0,-630.0) to (280.0,590.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window130 moves from (280.0,-630.0) to (280.0,-630.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window130 moves from (280.0,-630.0) to (280.0,-630.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window131 moves from (320.0,590.0) to (320.0,590.0) from t=153 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=153 to t=200
+
+changes color from (255,255,0)  to (255,255,0) from t=153 to t=200
+Shape: window131 moves from (320.0,590.0) to (320.0,590.0) from t=148 to t=153
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=148 to t=153
+
+changes color from (255,255,255)  to (255,255,0) from t=148 to t=153
+Shape: window131 moves from (320.0,590.0) to (320.0,590.0) from t=60 to t=148
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=148
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=148
+Shape: window131 moves from (320.0,-630.0) to (320.0,590.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window131 moves from (320.0,-630.0) to (320.0,-630.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window131 moves from (320.0,-630.0) to (320.0,-630.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window140 moves from (280.0,550.0) to (280.0,550.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window140 moves from (280.0,-590.0) to (280.0,550.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window140 moves from (280.0,-590.0) to (280.0,-590.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window140 moves from (280.0,-590.0) to (280.0,-590.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window141 moves from (320.0,550.0) to (320.0,550.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window141 moves from (320.0,-590.0) to (320.0,550.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window141 moves from (320.0,-590.0) to (320.0,-590.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window141 moves from (320.0,-590.0) to (320.0,-590.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window150 moves from (280.0,510.0) to (280.0,510.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window150 moves from (280.0,-550.0) to (280.0,510.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window150 moves from (280.0,-550.0) to (280.0,-550.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window150 moves from (280.0,-550.0) to (280.0,-550.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window151 moves from (320.0,510.0) to (320.0,510.0) from t=104 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=104 to t=200
+
+changes color from (255,255,0)  to (255,255,0) from t=104 to t=200
+Shape: window151 moves from (320.0,510.0) to (320.0,510.0) from t=99 to t=104
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=99 to t=104
+
+changes color from (255,255,255)  to (255,255,0) from t=99 to t=104
+Shape: window151 moves from (320.0,510.0) to (320.0,510.0) from t=60 to t=99
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=99
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=99
+Shape: window151 moves from (320.0,-550.0) to (320.0,510.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window151 moves from (320.0,-550.0) to (320.0,-550.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window151 moves from (320.0,-550.0) to (320.0,-550.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window160 moves from (280.0,470.0) to (280.0,470.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window160 moves from (280.0,-510.0) to (280.0,470.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window160 moves from (280.0,-510.0) to (280.0,-510.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window160 moves from (280.0,-510.0) to (280.0,-510.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window161 moves from (320.0,470.0) to (320.0,470.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window161 moves from (320.0,-510.0) to (320.0,470.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window161 moves from (320.0,-510.0) to (320.0,-510.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window161 moves from (320.0,-510.0) to (320.0,-510.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window170 moves from (280.0,430.0) to (280.0,430.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window170 moves from (280.0,-470.0) to (280.0,430.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window170 moves from (280.0,-470.0) to (280.0,-470.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window170 moves from (280.0,-470.0) to (280.0,-470.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window171 moves from (320.0,430.0) to (320.0,430.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window171 moves from (320.0,-470.0) to (320.0,430.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window171 moves from (320.0,-470.0) to (320.0,-470.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window171 moves from (320.0,-470.0) to (320.0,-470.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window180 moves from (280.0,390.0) to (280.0,390.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window180 moves from (280.0,-430.0) to (280.0,390.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window180 moves from (280.0,-430.0) to (280.0,-430.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window180 moves from (280.0,-430.0) to (280.0,-430.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window181 moves from (320.0,390.0) to (320.0,390.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window181 moves from (320.0,-430.0) to (320.0,390.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window181 moves from (320.0,-430.0) to (320.0,-430.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window181 moves from (320.0,-430.0) to (320.0,-430.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window200 moves from (460.0,710.0) to (460.0,710.0) from t=132 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=132 to t=200
+
+changes color from (255,255,0)  to (255,255,0) from t=132 to t=200
+Shape: window200 moves from (460.0,710.0) to (460.0,710.0) from t=127 to t=132
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=127 to t=132
+
+changes color from (255,255,255)  to (255,255,0) from t=127 to t=132
+Shape: window200 moves from (460.0,710.0) to (460.0,710.0) from t=60 to t=127
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=127
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=127
+Shape: window200 moves from (460.0,850.0) to (460.0,710.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window200 moves from (460.0,850.0) to (460.0,850.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window200 moves from (460.0,850.0) to (460.0,850.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window201 moves from (500.0,710.0) to (500.0,710.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window201 moves from (500.0,850.0) to (500.0,710.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window201 moves from (500.0,850.0) to (500.0,850.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window201 moves from (500.0,850.0) to (500.0,850.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window210 moves from (460.0,670.0) to (460.0,670.0) from t=88 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=88 to t=200
+
+changes color from (255,255,0)  to (255,255,0) from t=88 to t=200
+Shape: window210 moves from (460.0,670.0) to (460.0,670.0) from t=83 to t=88
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=83 to t=88
+
+changes color from (255,255,255)  to (255,255,0) from t=83 to t=88
+Shape: window210 moves from (460.0,670.0) to (460.0,670.0) from t=60 to t=83
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=83
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=83
+Shape: window210 moves from (460.0,890.0) to (460.0,670.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window210 moves from (460.0,890.0) to (460.0,890.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window210 moves from (460.0,890.0) to (460.0,890.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window211 moves from (500.0,670.0) to (500.0,670.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window211 moves from (500.0,890.0) to (500.0,670.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window211 moves from (500.0,890.0) to (500.0,890.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window211 moves from (500.0,890.0) to (500.0,890.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window220 moves from (460.0,630.0) to (460.0,630.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window220 moves from (460.0,930.0) to (460.0,630.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window220 moves from (460.0,930.0) to (460.0,930.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window220 moves from (460.0,930.0) to (460.0,930.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window221 moves from (500.0,630.0) to (500.0,630.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window221 moves from (500.0,930.0) to (500.0,630.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window221 moves from (500.0,930.0) to (500.0,930.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window221 moves from (500.0,930.0) to (500.0,930.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window230 moves from (460.0,590.0) to (460.0,590.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window230 moves from (460.0,970.0) to (460.0,590.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window230 moves from (460.0,970.0) to (460.0,970.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window230 moves from (460.0,970.0) to (460.0,970.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window231 moves from (500.0,590.0) to (500.0,590.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window231 moves from (500.0,970.0) to (500.0,590.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window231 moves from (500.0,970.0) to (500.0,970.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window231 moves from (500.0,970.0) to (500.0,970.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window240 moves from (460.0,550.0) to (460.0,550.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window240 moves from (460.0,1010.0) to (460.0,550.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window240 moves from (460.0,1010.0) to (460.0,1010.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window240 moves from (460.0,1010.0) to (460.0,1010.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window241 moves from (500.0,550.0) to (500.0,550.0) from t=117 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=117 to t=200
+
+changes color from (255,255,0)  to (255,255,0) from t=117 to t=200
+Shape: window241 moves from (500.0,550.0) to (500.0,550.0) from t=112 to t=117
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=112 to t=117
+
+changes color from (255,255,255)  to (255,255,0) from t=112 to t=117
+Shape: window241 moves from (500.0,550.0) to (500.0,550.0) from t=60 to t=112
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=112
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=112
+Shape: window241 moves from (500.0,1010.0) to (500.0,550.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window241 moves from (500.0,1010.0) to (500.0,1010.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window241 moves from (500.0,1010.0) to (500.0,1010.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window250 moves from (460.0,510.0) to (460.0,510.0) from t=133 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=133 to t=200
+
+changes color from (255,255,0)  to (255,255,0) from t=133 to t=200
+Shape: window250 moves from (460.0,510.0) to (460.0,510.0) from t=128 to t=133
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=128 to t=133
+
+changes color from (255,255,255)  to (255,255,0) from t=128 to t=133
+Shape: window250 moves from (460.0,510.0) to (460.0,510.0) from t=60 to t=128
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=128
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=128
+Shape: window250 moves from (460.0,1050.0) to (460.0,510.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window250 moves from (460.0,1050.0) to (460.0,1050.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window250 moves from (460.0,1050.0) to (460.0,1050.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window251 moves from (500.0,510.0) to (500.0,510.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window251 moves from (500.0,1050.0) to (500.0,510.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window251 moves from (500.0,1050.0) to (500.0,1050.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window251 moves from (500.0,1050.0) to (500.0,1050.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window260 moves from (460.0,470.0) to (460.0,470.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window260 moves from (460.0,1090.0) to (460.0,470.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window260 moves from (460.0,1090.0) to (460.0,1090.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window260 moves from (460.0,1090.0) to (460.0,1090.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window261 moves from (500.0,470.0) to (500.0,470.0) from t=101 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=101 to t=200
+
+changes color from (255,255,0)  to (255,255,0) from t=101 to t=200
+Shape: window261 moves from (500.0,470.0) to (500.0,470.0) from t=96 to t=101
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=96 to t=101
+
+changes color from (255,255,255)  to (255,255,0) from t=96 to t=101
+Shape: window261 moves from (500.0,470.0) to (500.0,470.0) from t=60 to t=96
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=96
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=96
+Shape: window261 moves from (500.0,1090.0) to (500.0,470.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window261 moves from (500.0,1090.0) to (500.0,1090.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window261 moves from (500.0,1090.0) to (500.0,1090.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window270 moves from (460.0,430.0) to (460.0,430.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window270 moves from (460.0,1130.0) to (460.0,430.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window270 moves from (460.0,1130.0) to (460.0,1130.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window270 moves from (460.0,1130.0) to (460.0,1130.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window271 moves from (500.0,430.0) to (500.0,430.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window271 moves from (500.0,1130.0) to (500.0,430.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window271 moves from (500.0,1130.0) to (500.0,1130.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window271 moves from (500.0,1130.0) to (500.0,1130.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window300 moves from (640.0,710.0) to (640.0,710.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window300 moves from (640.0,-750.0) to (640.0,710.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window300 moves from (640.0,-750.0) to (640.0,-750.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window300 moves from (640.0,-750.0) to (640.0,-750.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window301 moves from (680.0,710.0) to (680.0,710.0) from t=140 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=140 to t=200
+
+changes color from (255,255,0)  to (255,255,0) from t=140 to t=200
+Shape: window301 moves from (680.0,710.0) to (680.0,710.0) from t=135 to t=140
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=135 to t=140
+
+changes color from (255,255,255)  to (255,255,0) from t=135 to t=140
+Shape: window301 moves from (680.0,710.0) to (680.0,710.0) from t=60 to t=135
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=135
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=135
+Shape: window301 moves from (680.0,-750.0) to (680.0,710.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window301 moves from (680.0,-750.0) to (680.0,-750.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window301 moves from (680.0,-750.0) to (680.0,-750.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window310 moves from (640.0,670.0) to (640.0,670.0) from t=108 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=108 to t=200
+
+changes color from (255,255,0)  to (255,255,0) from t=108 to t=200
+Shape: window310 moves from (640.0,670.0) to (640.0,670.0) from t=103 to t=108
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=103 to t=108
+
+changes color from (255,255,255)  to (255,255,0) from t=103 to t=108
+Shape: window310 moves from (640.0,670.0) to (640.0,670.0) from t=60 to t=103
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=103
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=103
+Shape: window310 moves from (640.0,-710.0) to (640.0,670.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window310 moves from (640.0,-710.0) to (640.0,-710.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window310 moves from (640.0,-710.0) to (640.0,-710.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window311 moves from (680.0,670.0) to (680.0,670.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window311 moves from (680.0,-710.0) to (680.0,670.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window311 moves from (680.0,-710.0) to (680.0,-710.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window311 moves from (680.0,-710.0) to (680.0,-710.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window320 moves from (640.0,630.0) to (640.0,630.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window320 moves from (640.0,-670.0) to (640.0,630.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window320 moves from (640.0,-670.0) to (640.0,-670.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window320 moves from (640.0,-670.0) to (640.0,-670.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window321 moves from (680.0,630.0) to (680.0,630.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window321 moves from (680.0,-670.0) to (680.0,630.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window321 moves from (680.0,-670.0) to (680.0,-670.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window321 moves from (680.0,-670.0) to (680.0,-670.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window330 moves from (640.0,590.0) to (640.0,590.0) from t=86 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=86 to t=200
+
+changes color from (255,255,0)  to (255,255,0) from t=86 to t=200
+Shape: window330 moves from (640.0,590.0) to (640.0,590.0) from t=81 to t=86
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=81 to t=86
+
+changes color from (255,255,255)  to (255,255,0) from t=81 to t=86
+Shape: window330 moves from (640.0,590.0) to (640.0,590.0) from t=60 to t=81
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=81
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=81
+Shape: window330 moves from (640.0,-630.0) to (640.0,590.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window330 moves from (640.0,-630.0) to (640.0,-630.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window330 moves from (640.0,-630.0) to (640.0,-630.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window331 moves from (680.0,590.0) to (680.0,590.0) from t=124 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=124 to t=200
+
+changes color from (255,255,0)  to (255,255,0) from t=124 to t=200
+Shape: window331 moves from (680.0,590.0) to (680.0,590.0) from t=119 to t=124
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=119 to t=124
+
+changes color from (255,255,255)  to (255,255,0) from t=119 to t=124
+Shape: window331 moves from (680.0,590.0) to (680.0,590.0) from t=60 to t=119
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=119
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=119
+Shape: window331 moves from (680.0,-630.0) to (680.0,590.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window331 moves from (680.0,-630.0) to (680.0,-630.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window331 moves from (680.0,-630.0) to (680.0,-630.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window340 moves from (640.0,550.0) to (640.0,550.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window340 moves from (640.0,-590.0) to (640.0,550.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window340 moves from (640.0,-590.0) to (640.0,-590.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window340 moves from (640.0,-590.0) to (640.0,-590.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window341 moves from (680.0,550.0) to (680.0,550.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window341 moves from (680.0,-590.0) to (680.0,550.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window341 moves from (680.0,-590.0) to (680.0,-590.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window341 moves from (680.0,-590.0) to (680.0,-590.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window350 moves from (640.0,510.0) to (640.0,510.0) from t=60 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=200
+Shape: window350 moves from (640.0,-550.0) to (640.0,510.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window350 moves from (640.0,-550.0) to (640.0,-550.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window350 moves from (640.0,-550.0) to (640.0,-550.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window351 moves from (680.0,510.0) to (680.0,510.0) from t=105 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=105 to t=200
+
+changes color from (255,255,0)  to (255,255,0) from t=105 to t=200
+Shape: window351 moves from (680.0,510.0) to (680.0,510.0) from t=100 to t=105
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=100 to t=105
+
+changes color from (255,255,255)  to (255,255,0) from t=100 to t=105
+Shape: window351 moves from (680.0,510.0) to (680.0,510.0) from t=60 to t=100
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=100
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=100
+Shape: window351 moves from (680.0,-550.0) to (680.0,510.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window351 moves from (680.0,-550.0) to (680.0,-550.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window351 moves from (680.0,-550.0) to (680.0,-550.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window360 moves from (640.0,470.0) to (640.0,470.0) from t=104 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=104 to t=200
+
+changes color from (255,255,0)  to (255,255,0) from t=104 to t=200
+Shape: window360 moves from (640.0,470.0) to (640.0,470.0) from t=99 to t=104
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=99 to t=104
+
+changes color from (255,255,255)  to (255,255,0) from t=99 to t=104
+Shape: window360 moves from (640.0,470.0) to (640.0,470.0) from t=60 to t=99
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=99
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=99
+Shape: window360 moves from (640.0,-510.0) to (640.0,470.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window360 moves from (640.0,-510.0) to (640.0,-510.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window360 moves from (640.0,-510.0) to (640.0,-510.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: window361 moves from (680.0,470.0) to (680.0,470.0) from t=104 to t=200
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=104 to t=200
+
+changes color from (255,255,0)  to (255,255,0) from t=104 to t=200
+Shape: window361 moves from (680.0,470.0) to (680.0,470.0) from t=99 to t=104
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=99 to t=104
+
+changes color from (255,255,255)  to (255,255,0) from t=99 to t=104
+Shape: window361 moves from (680.0,470.0) to (680.0,470.0) from t=60 to t=99
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=60 to t=99
+
+changes color from (255,255,255)  to (255,255,255) from t=60 to t=99
+Shape: window361 moves from (680.0,-510.0) to (680.0,470.0) from t=20 to t=60
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=20 to t=60
+
+changes color from (255,255,255)  to (255,255,255) from t=20 to t=60
+Shape: window361 moves from (680.0,-510.0) to (680.0,-510.0) from t=1 to t=1
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=1
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=1
+Shape: window361 moves from (680.0,-510.0) to (680.0,-510.0) from t=1 to t=20
+
+scales from Width: 20, Height: 20 to Width: 20, Height: 20 from t=1 to t=20
+
+changes color from (255,255,255)  to (255,255,255) from t=1 to t=20
+Shape: moon moves from (200.0,200.0) to (200.0,200.0) from t=1 to t=1
+
+scales from Width: 100, Height: 100 to Width: 100, Height: 100 from t=1 to t=1
+
+changes color from (229,229,255)  to (229,229,255) from t=1 to t=1
+Shape: moon moves from (200.0,200.0) to (200.0,200.0) from t=1 to t=200
+
+scales from Width: 100, Height: 100 to Width: 100, Height: 100 from t=1 to t=200
+
+changes color from (229,229,255)  to (229,229,255) from t=1 to t=200
+Shape: eclipse moves from (230.0,180.0) to (230.0,180.0) from t=90 to t=200
+
+scales from Width: 100, Height: 100 to Width: 100, Height: 100 from t=90 to t=200
+
+changes color from (16,45,248)  to (16,45,248) from t=90 to t=200
+Shape: eclipse moves from (400.0,0.0) to (230.0,180.0) from t=50 to t=90
+
+scales from Width: 100, Height: 100 to Width: 100, Height: 100 from t=50 to t=90
+
+changes color from (33,94,248)  to (16,45,248) from t=50 to t=90
+Shape: eclipse moves from (400.0,0.0) to (400.0,0.0) from t=1 to t=1
+
+scales from Width: 100, Height: 100 to Width: 100, Height: 100 from t=1 to t=1
+
+changes color from (33,94,248)  to (33,94,248) from t=1 to t=1
+Shape: eclipse moves from (400.0,0.0) to (400.0,0.0) from t=1 to t=50
+
+scales from Width: 100, Height: 100 to Width: 100, Height: 100 from t=1 to t=50
+
+changes color from (33,94,248)  to (33,94,248) from t=1 to t=50
+Shape: star0 moves from (223.0,66.0) to (223.0,66.0) from t=108 to t=108
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=108 to t=108
+
+changes color from (255,255,255)  to (255,255,255) from t=108 to t=108
+Shape: star0 moves from (223.0,66.0) to (223.0,66.0) from t=108 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=108 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=108 to t=200
+Shape: star1 moves from (585.0,211.0) to (585.0,211.0) from t=120 to t=120
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=120 to t=120
+
+changes color from (255,255,255)  to (255,255,255) from t=120 to t=120
+Shape: star1 moves from (585.0,211.0) to (585.0,211.0) from t=120 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=120 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=120 to t=200
+Shape: star2 moves from (489.0,77.0) to (489.0,77.0) from t=110 to t=110
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=110 to t=110
+
+changes color from (255,255,255)  to (255,255,255) from t=110 to t=110
+Shape: star2 moves from (489.0,77.0) to (489.0,77.0) from t=110 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=110 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=110 to t=200
+Shape: star3 moves from (374.0,286.0) to (374.0,286.0) from t=93 to t=93
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=93 to t=93
+
+changes color from (255,255,255)  to (255,255,255) from t=93 to t=93
+Shape: star3 moves from (374.0,286.0) to (374.0,286.0) from t=93 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=93 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=93 to t=200
+Shape: star4 moves from (708.0,281.0) to (708.0,281.0) from t=83 to t=83
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=83 to t=83
+
+changes color from (255,255,255)  to (255,255,255) from t=83 to t=83
+Shape: star4 moves from (708.0,281.0) to (708.0,281.0) from t=83 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=83 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=83 to t=200
+Shape: star5 moves from (508.0,260.0) to (508.0,260.0) from t=97 to t=97
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=97 to t=97
+
+changes color from (255,255,255)  to (255,255,255) from t=97 to t=97
+Shape: star5 moves from (508.0,260.0) to (508.0,260.0) from t=97 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=97 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=97 to t=200
+Shape: star6 moves from (529.0,70.0) to (529.0,70.0) from t=92 to t=92
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=92 to t=92
+
+changes color from (255,255,255)  to (255,255,255) from t=92 to t=92
+Shape: star6 moves from (529.0,70.0) to (529.0,70.0) from t=92 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=92 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=92 to t=200
+Shape: star7 moves from (332.0,65.0) to (332.0,65.0) from t=117 to t=117
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=117 to t=117
+
+changes color from (255,255,255)  to (255,255,255) from t=117 to t=117
+Shape: star7 moves from (332.0,65.0) to (332.0,65.0) from t=117 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=117 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=117 to t=200
+Shape: star8 moves from (311.0,147.0) to (311.0,147.0) from t=86 to t=86
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=86 to t=86
+
+changes color from (255,255,255)  to (255,255,255) from t=86 to t=86
+Shape: star8 moves from (311.0,147.0) to (311.0,147.0) from t=86 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=86 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=86 to t=200
+Shape: star9 moves from (170.0,281.0) to (170.0,281.0) from t=88 to t=88
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=88 to t=88
+
+changes color from (255,255,255)  to (255,255,255) from t=88 to t=88
+Shape: star9 moves from (170.0,281.0) to (170.0,281.0) from t=88 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=88 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=88 to t=200
+Shape: star10 moves from (719.0,102.0) to (719.0,102.0) from t=90 to t=90
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=90 to t=90
+
+changes color from (255,255,255)  to (255,255,255) from t=90 to t=90
+Shape: star10 moves from (719.0,102.0) to (719.0,102.0) from t=90 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=90 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=90 to t=200
+Shape: star11 moves from (524.0,264.0) to (524.0,264.0) from t=129 to t=129
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=129 to t=129
+
+changes color from (255,255,255)  to (255,255,255) from t=129 to t=129
+Shape: star11 moves from (524.0,264.0) to (524.0,264.0) from t=129 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=129 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=129 to t=200
+Shape: star12 moves from (768.0,194.0) to (768.0,194.0) from t=86 to t=86
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=86 to t=86
+
+changes color from (255,255,255)  to (255,255,255) from t=86 to t=86
+Shape: star12 moves from (768.0,194.0) to (768.0,194.0) from t=86 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=86 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=86 to t=200
+Shape: star13 moves from (766.0,179.0) to (766.0,179.0) from t=113 to t=113
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=113 to t=113
+
+changes color from (255,255,255)  to (255,255,255) from t=113 to t=113
+Shape: star13 moves from (766.0,179.0) to (766.0,179.0) from t=113 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=113 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=113 to t=200
+Shape: star14 moves from (510.0,78.0) to (510.0,78.0) from t=98 to t=98
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=98 to t=98
+
+changes color from (255,255,255)  to (255,255,255) from t=98 to t=98
+Shape: star14 moves from (510.0,78.0) to (510.0,78.0) from t=98 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=98 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=98 to t=200
+Shape: star15 moves from (621.0,149.0) to (621.0,149.0) from t=114 to t=114
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=114 to t=114
+
+changes color from (255,255,255)  to (255,255,255) from t=114 to t=114
+Shape: star15 moves from (621.0,149.0) to (621.0,149.0) from t=114 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=114 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=114 to t=200
+Shape: star16 moves from (491.0,252.0) to (491.0,252.0) from t=106 to t=106
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=106 to t=106
+
+changes color from (255,255,255)  to (255,255,255) from t=106 to t=106
+Shape: star16 moves from (491.0,252.0) to (491.0,252.0) from t=106 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=106 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=106 to t=200
+Shape: star17 moves from (405.0,63.0) to (405.0,63.0) from t=89 to t=89
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=89 to t=89
+
+changes color from (255,255,255)  to (255,255,255) from t=89 to t=89
+Shape: star17 moves from (405.0,63.0) to (405.0,63.0) from t=89 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=89 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=89 to t=200
+Shape: star18 moves from (550.0,267.0) to (550.0,267.0) from t=113 to t=113
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=113 to t=113
+
+changes color from (255,255,255)  to (255,255,255) from t=113 to t=113
+Shape: star18 moves from (550.0,267.0) to (550.0,267.0) from t=113 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=113 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=113 to t=200
+Shape: star19 moves from (108.0,197.0) to (108.0,197.0) from t=94 to t=94
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=94 to t=94
+
+changes color from (255,255,255)  to (255,255,255) from t=94 to t=94
+Shape: star19 moves from (108.0,197.0) to (108.0,197.0) from t=94 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=94 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=94 to t=200
+Shape: star20 moves from (737.0,78.0) to (737.0,78.0) from t=103 to t=103
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=103 to t=103
+
+changes color from (255,255,255)  to (255,255,255) from t=103 to t=103
+Shape: star20 moves from (737.0,78.0) to (737.0,78.0) from t=103 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=103 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=103 to t=200
+Shape: star21 moves from (795.0,137.0) to (795.0,137.0) from t=126 to t=126
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=126 to t=126
+
+changes color from (255,255,255)  to (255,255,255) from t=126 to t=126
+Shape: star21 moves from (795.0,137.0) to (795.0,137.0) from t=126 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=126 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=126 to t=200
+Shape: star22 moves from (184.0,125.0) to (184.0,125.0) from t=89 to t=89
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=89 to t=89
+
+changes color from (255,255,255)  to (255,255,255) from t=89 to t=89
+Shape: star22 moves from (184.0,125.0) to (184.0,125.0) from t=89 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=89 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=89 to t=200
+Shape: star23 moves from (134.0,230.0) to (134.0,230.0) from t=96 to t=96
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=96 to t=96
+
+changes color from (255,255,255)  to (255,255,255) from t=96 to t=96
+Shape: star23 moves from (134.0,230.0) to (134.0,230.0) from t=96 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=96 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=96 to t=200
+Shape: star24 moves from (244.0,153.0) to (244.0,153.0) from t=120 to t=120
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=120 to t=120
+
+changes color from (255,255,255)  to (255,255,255) from t=120 to t=120
+Shape: star24 moves from (244.0,153.0) to (244.0,153.0) from t=120 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=120 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=120 to t=200
+Shape: star25 moves from (259.0,119.0) to (259.0,119.0) from t=112 to t=112
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=112 to t=112
+
+changes color from (255,255,255)  to (255,255,255) from t=112 to t=112
+Shape: star25 moves from (259.0,119.0) to (259.0,119.0) from t=112 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=112 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=112 to t=200
+Shape: star26 moves from (322.0,269.0) to (322.0,269.0) from t=106 to t=106
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=106 to t=106
+
+changes color from (255,255,255)  to (255,255,255) from t=106 to t=106
+Shape: star26 moves from (322.0,269.0) to (322.0,269.0) from t=106 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=106 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=106 to t=200
+Shape: star27 moves from (412.0,182.0) to (412.0,182.0) from t=117 to t=117
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=117 to t=117
+
+changes color from (255,255,255)  to (255,255,255) from t=117 to t=117
+Shape: star27 moves from (412.0,182.0) to (412.0,182.0) from t=117 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=117 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=117 to t=200
+Shape: star28 moves from (674.0,137.0) to (674.0,137.0) from t=119 to t=119
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=119 to t=119
+
+changes color from (255,255,255)  to (255,255,255) from t=119 to t=119
+Shape: star28 moves from (674.0,137.0) to (674.0,137.0) from t=119 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=119 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=119 to t=200
+Shape: star29 moves from (46.0,246.0) to (46.0,246.0) from t=96 to t=96
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=96 to t=96
+
+changes color from (255,255,255)  to (255,255,255) from t=96 to t=96
+Shape: star29 moves from (46.0,246.0) to (46.0,246.0) from t=96 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=96 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=96 to t=200
+Shape: star30 moves from (388.0,315.0) to (388.0,315.0) from t=123 to t=123
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=123 to t=123
+
+changes color from (255,255,255)  to (255,255,255) from t=123 to t=123
+Shape: star30 moves from (388.0,315.0) to (388.0,315.0) from t=123 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=123 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=123 to t=200
+Shape: star31 moves from (185.0,236.0) to (185.0,236.0) from t=121 to t=121
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=121 to t=121
+
+changes color from (255,255,255)  to (255,255,255) from t=121 to t=121
+Shape: star31 moves from (185.0,236.0) to (185.0,236.0) from t=121 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=121 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=121 to t=200
+Shape: star32 moves from (550.0,232.0) to (550.0,232.0) from t=109 to t=109
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=109 to t=109
+
+changes color from (255,255,255)  to (255,255,255) from t=109 to t=109
+Shape: star32 moves from (550.0,232.0) to (550.0,232.0) from t=109 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=109 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=109 to t=200
+Shape: star33 moves from (656.0,101.0) to (656.0,101.0) from t=94 to t=94
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=94 to t=94
+
+changes color from (255,255,255)  to (255,255,255) from t=94 to t=94
+Shape: star33 moves from (656.0,101.0) to (656.0,101.0) from t=94 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=94 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=94 to t=200
+Shape: star34 moves from (283.0,111.0) to (283.0,111.0) from t=84 to t=84
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=84 to t=84
+
+changes color from (255,255,255)  to (255,255,255) from t=84 to t=84
+Shape: star34 moves from (283.0,111.0) to (283.0,111.0) from t=84 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=84 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=84 to t=200
+Shape: star35 moves from (649.0,326.0) to (649.0,326.0) from t=92 to t=92
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=92 to t=92
+
+changes color from (255,255,255)  to (255,255,255) from t=92 to t=92
+Shape: star35 moves from (649.0,326.0) to (649.0,326.0) from t=92 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=92 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=92 to t=200
+Shape: star36 moves from (691.0,267.0) to (691.0,267.0) from t=115 to t=115
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=115 to t=115
+
+changes color from (255,255,255)  to (255,255,255) from t=115 to t=115
+Shape: star36 moves from (691.0,267.0) to (691.0,267.0) from t=115 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=115 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=115 to t=200
+Shape: star37 moves from (113.0,276.0) to (113.0,276.0) from t=99 to t=99
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=99 to t=99
+
+changes color from (255,255,255)  to (255,255,255) from t=99 to t=99
+Shape: star37 moves from (113.0,276.0) to (113.0,276.0) from t=99 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=99 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=99 to t=200
+Shape: star38 moves from (604.0,302.0) to (604.0,302.0) from t=99 to t=99
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=99 to t=99
+
+changes color from (255,255,255)  to (255,255,255) from t=99 to t=99
+Shape: star38 moves from (604.0,302.0) to (604.0,302.0) from t=99 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=99 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=99 to t=200
+Shape: star39 moves from (462.0,162.0) to (462.0,162.0) from t=127 to t=127
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=127 to t=127
+
+changes color from (255,255,255)  to (255,255,255) from t=127 to t=127
+Shape: star39 moves from (462.0,162.0) to (462.0,162.0) from t=127 to t=200
+
+scales from Width: 6, Height: 6 to Width: 6, Height: 6 from t=127 to t=200
+
+changes color from (255,255,255)  to (255,255,255) from t=127 to t=200
